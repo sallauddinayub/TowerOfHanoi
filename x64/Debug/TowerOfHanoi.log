@@ -1,0 +1,2 @@
+﻿  Tower.cpp
+C:\Users\Sallauddin Ayub\source\repos\TowerOfHanoi\TowerOfHanoi\Tower.cpp(3,10): fatal  error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
